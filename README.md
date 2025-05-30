@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm QuocAnhh86</h1>
+<h1>Hi 👋, I'm Nguyen Quoc Anh</h1>
 <p>I’m a passionate full-stack developer from Hanoi, Vietnam.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -15,10 +15,10 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=QuocAnhh86&show_icons=true&locale=en" alt="QuocAnhh86" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuocAnhh86&" alt="QuocAnhh86" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=QuocAnhh86&show_icons=true&locale=en&layout=compact" alt="QuocAnhh86" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QuocAnhh86" alt="QuocAnhh86" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=quocanhh86&show_icons=true&locale=en" alt="quocanhh86" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quocanhh86&" alt="quocanhh86" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=quocanhh86&show_icons=true&locale=en&layout=compact" alt="quocanhh86" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QuocAnhh86" alt="quocanhh86" /></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quocanhh86/quocanhh86/output/github-snake-dark.svg" />
