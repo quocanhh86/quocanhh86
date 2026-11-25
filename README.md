@@ -1,5 +1,13 @@
 <h1>Hi 👋, I'm Nguyen Quoc Anh</h1>
 <p>I’m a passionate back-end developer from Hanoi, Vietnam.</p>
+<h2>🌐 Live Engineering Portfolio</h2>
+<p>
+  <a target="_blank" rel="noopener noreferrer" href="https://quocanhh86.github.io"><img src="https://img.shields.io/badge/Live_Portfolio-quocanhh86.github.io-F59E0B?style=for-the-badge&amp;logo=githubpages&amp;logoColor=090B10" alt="Live Engineering Portfolio" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/quocanhh86"><img src="https://img.shields.io/badge/LinkedIn-quocanhh86-0A66C2?style=for-the-badge" alt="LinkedIn Profile" /></a>
+</p>
+<p>
+  Explore my <strong>Live Engineering Portfolio</strong> at <a target="_blank" rel="noopener noreferrer" href="https://quocanhh86.github.io"><strong>quocanhh86.github.io</strong></a> — featuring live <code>.webm</code> product demos, interactive <strong>Architecture X-Ray</strong> deep dives, a bilingual <strong>EN / VI</strong> showcase, and a clean downloadable <strong>CV PDF</strong>. Connect with me on <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/quocanhh86">LinkedIn</a>.
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
